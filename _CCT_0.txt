@@ -1,0 +1,33 @@
+Camera ID  -  0
+
+ISO_RESULT (SENSOR_SENSITIVITY)  -  3200
+ColorTransform ID -  0
+
+ColorTransform Name  -  System
+
+RCoeff  -  1
+GCoeff  -  1
+BCoeff  -  1
+
+System CT 
+1.750000
+-0.890625
+0.132812
+-0.140625
+1.164062
+-0.023438
+0.148438
+-1.335938
+2.187500
+
+Working CT
+1.750000
+-0.890625
+0.132812
+-0.140625
+1.164062
+-0.023438
+0.148438
+-1.335938
+2.187500
+
